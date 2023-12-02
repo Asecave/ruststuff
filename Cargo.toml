@@ -1,0 +1,7 @@
+[package]
+name = "ruststuff"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rustmatica = "0.1.1"
